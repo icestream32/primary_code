@@ -1,5 +1,4 @@
-@SuppressWarnings("unused")
-
+//利用递归算法求第n个斐波那契数的值
 public class 斐波那契数列递归 {
     public static void main(String args[]) {
 
