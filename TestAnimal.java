@@ -23,8 +23,8 @@ public class TestAnimal {
         Cat c = new Cat();
         c.move();
 
-        Yingwu y = new Yingwu();
-        y.move();
+        // Yingwu y = new Yingwu();
+        // y.move();
 
     }
     
